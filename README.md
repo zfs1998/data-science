@@ -57,7 +57,7 @@ X光安检图像识别2021挑战赛
 
 **结构化：**
 
-[环境空气质量评价挑战赛](https://challenge.xfyun.cn/topic/info?type=air-quality&ch=dc-ugc-01)
+[环境空气质量评价挑战赛](https://challenge.xfyun.cn/topic/info?type=air-quality&ch=dc-ugc-01)：根据当天的PM2.5等信息，预测IPPC值，[baseline](https://github.com/zfs1998/data-science/blob/main/%E5%8C%97%E4%BA%AC%E6%9E%97%E4%B8%9A%E5%A4%A7%E5%AD%A6_%E7%8E%AF%E5%A2%83%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%E8%AF%84%E4%BB%B7%E6%8C%91%E6%88%98%E8%B5%9B.ipynb)
 
 基于用户画像的商品推荐挑战赛
 
