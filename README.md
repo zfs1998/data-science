@@ -22,7 +22,7 @@ https://challenge.xfyun.cn/?ch=dc-ugc-01
 | [智能硬件语音控制的时频图分类挑战赛](https://challenge.xfyun.cn/topic/info?type=time-frequency&ch=dc-ugc-01) | 根据语音的图谱图片进行分类                     | [baseline](https://github.com/zfs1998/data-science/blob/main/IFLYTEK/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6_%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E8%AF%AD%E9%9F%B3%E6%8E%A7%E5%88%B6%E7%9A%84%E6%97%B6%E9%A2%91%E5%9B%BE%E5%88%86%E7%B1%BB%E6%8C%91%E6%88%98%E8%B5%9B.ipynb) 0.06042 Top5 |
 | 广告图片素材分类算法挑战赛                                   |                                                |                                                              |
 | 基于脑电的情绪识别算法挑战赛                                 |                                                |                                                              |
-| X光安检图像识别2021挑战赛                                    |                                                |                                                              |
+| [X光安检图像识别2021挑战赛](https://challenge.xfyun.cn/topic/info?type=Xray-2021&ch=dc-ugc-01) | 识别X光安检的可疑物品                          | [baseline](https://github.com/zfs1998/data-science/blob/main/IFLYTEK/X%E5%85%89%E5%AE%89%E6%A3%80%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB2021%E6%8C%91%E6%88%98%E8%B5%9Bbaseline.ipynb) 0.23416 Top66 |
 | --------                                                     | --------**（目标检测）**--------               | --------                                                     |
 | [猪只盘点挑战赛](https://challenge.xfyun.cn/topic/info?type=pig-check&ch=dc-ugc-01) | 检测出图片中的所有猪                           | [baseline](https://github.com/zfs1998/data-science/blob/main/IFLYTEK/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8_%E7%8C%AA%E5%8F%AA%E7%9B%98%E7%82%B9%E6%8C%91%E6%88%98%E8%B5%9B.ipynb) 0.00313 Top31 |
 | 高分辨率遥感影像耕地地块提取挑战赛                           |                                                |                                                              |
@@ -39,3 +39,6 @@ https://challenge.xfyun.cn/?ch=dc-ugc-01
 | 鸟类鸣叫声识别挑战赛                                         |                                                |                                                              |
 | --------                                                     | --------**（视频分类）**--------               | --------                                                     |
 | 农民劳作识别挑战赛                                           |                                                |                                                              |
+
+
+
